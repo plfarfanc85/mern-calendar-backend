@@ -1,3 +1,9 @@
 # Backend MERN - Calendar
 
-Backend que creamos en el curso de React: de cero a experto
+Backend desarrollado en Node Js para la aplicación de Calendario
+
+Recuerden que deben de reconstruir los módulos de node con el comando
+
+```
+npm install
+```
